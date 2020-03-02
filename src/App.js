@@ -1,11 +1,10 @@
 import React from 'react';
 import { Router, Link } from '@reach/router'
-import { Segment, Container, Header, Menu } from 'semantic-ui-react'
+import { Container, Header, Menu } from 'semantic-ui-react'
 
 import Home from './pages/Home';
 import MyPage from './pages/MyPage';
 
-import './App.css';
 
 function App() {
 
